@@ -1,0 +1,17 @@
+//This is a change done from a local machine - CodingCat.
+//Code written in C# using Notepad++
+
+var timeLine = "This is Timeline:";
+int incrementNum = 1;
+
+Console.WriteLine("Time Line");
+
+while (incrementNum < 5)
+	{
+	Console.WriteLine($"{timeLine} {incrementNum});
+	incrementNum =+;
+	}
+
+Console.ReadKey(true);
+
+//Hope I remember  the code right
